@@ -1,0 +1,32 @@
+main>div{
+    text-align: center;
+}
+h2{
+    text-align: center;
+    color: darkblue;
+}
+h1,h5, h4{
+    text-align: center;
+}
+table{
+    text-align: center;
+}
+table>thead>tr>td{
+    border: solid 1px;
+    background-color:darkkhaki;
+}
+table>tbody>tr>td{
+    border: solid 1px;
+    background-color: darkgray;
+}
+article img{
+    float: left; /** flotamos la imagen de lado izquierdo **/
+    margin-right: 30px; /** alineamos la imagen de lado izquierdo **/
+}
+article p{
+    text-align: justify; /** alineado de texto **/
+    line-height: 2; /** sepación de interlíneado **/
+} 
+body{
+    background-color:#afbadf;
+}
